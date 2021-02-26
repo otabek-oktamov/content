@@ -1,0 +1,105 @@
+body{
+    background: #333;
+}
+.content{
+    background: white;
+    width: 624px;
+    height: 485px;
+    margin: 100px auto;
+    border-radius: 5px;
+    box-sizing: border-box;
+   
+    overflow: hidden;
+}
+.content-header{
+    padding: 25px;
+    width: 100%;
+    height: 190px;
+}
+.content-future{
+    width: 100%;
+    display: flex;
+}
+.content-future-left{
+    padding: 35px;
+    background: #2bb3b1;
+    width: 50%;
+    height: 100%;
+}
+.content-future-right{
+    padding: 35px;
+    background: #4abebd;
+    width: 50%;
+    height: 100%;
+}
+.title{
+    padding: 10px 0px;
+    display: flex;
+    font-family: 'Karla', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #2ca6a7;
+}
+.enter{
+    font-family: 'Karla', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    color: #c6e040;
+}
+.text{
+    font-family: 'Karla', sans-serif;
+    font-weight: 400;
+    font-size: 15;
+    color: #aeafb3;
+    line-height: 30px;
+}
+.content-future-left-title{
+    color: white;
+    font-family: 'Karla',sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+.content-future-left-text{
+    font-family: 'Karla',sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    color: white;
+    letter-spacing: 1px;
+}
+.per{
+    color: #95ecee;
+    font-weight: 200;
+    font-size: large;
+    font-family: 'Karla',sans-serif;
+}
+.texts{
+    font-size: 16px;
+    color:#b2f7f4;
+    font-family: 'karla',sans-serif;
+}
+.btn{
+    font-family: 'Karla',sans-serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: white;
+    border-radius: 5px;
+    padding: 18px 80px;
+    background: #bfdf32;
+    border: none;
+}
+.content-future-right-title{
+    font-family: 'Karla',sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+}
+.list{
+    line-height: 20px;
+    padding: 0;
+}
+.list-item{
+    font-family: 'Karla',sans-serif;
+    font-weight: 200;
+    color: #aae5e6;
+    list-style-type: none;
+}
